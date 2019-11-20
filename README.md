@@ -4,9 +4,9 @@
 
 ## Frameworks Used
 - [ASP.NET Core 3.0](https://docs.microsoft.com/en-us/aspnet/core/release-notes/aspnetcore-3.0?view=aspnetcore-3.0);
-- [Entity Framework core] (https://docs.microsoft.com/en-us/ef/core/)(For data access);
+- [Entity Framework core](https://docs.microsoft.com/en-us/ef/core)(For data access);
 - [Entity Framwork In-Memory Provider](https://docs.microsoft.com/en-us/ef/core/providers/in-memory/?tabs=dotnet-core-cli)(For testing);
-- [AutoMapper](https://automapper.org/) (for mapping resources and models);
+- [AutoMapper](https://automapper.org/)(for mapping resources and models);
 - [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle) (API documentation).
 
 ## How to Test
